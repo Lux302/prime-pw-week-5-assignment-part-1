@@ -57,3 +57,5 @@ console.log(me.shoeCount);
 */me.favoriteColor = `Always Changing`;
 console.log(me.favoriteColor); 
 console.log(me);
+
+
